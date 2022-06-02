@@ -6,7 +6,9 @@ public class gitclass04 {
 
 		
 		System.out.println("random");
+		System.out.println("random");
 		
+
 		
 		
 		
