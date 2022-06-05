@@ -27,7 +27,7 @@ public class HwReviewWithNestedifAndScanner {
 			System.out.println("Your grade is F");
 		
 		
-		if(average>=90) {
+		if(Average>=90) {
 			grade}
 		}
 		
