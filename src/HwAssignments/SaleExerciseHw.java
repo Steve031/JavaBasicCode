@@ -6,7 +6,7 @@ public class SaleExerciseHw {
 
 	public static void main(String[] args) {
 
-int price = 0,discount = 0,discountPrice,result = 0;
+int price = 0,discount = 0,discountPrice;
 String item = null;	
 	
 Scanner scanner=new Scanner(System.in);
@@ -58,7 +58,8 @@ String ans=scanner.nextLine();
 		
 		
 		
-		
+		scanner.close();
+
 		
 		
 		

@@ -75,9 +75,8 @@ public class ForLoopsAndNestedLoopHw {
 	}
 		
 		
-		
-		
-		
+	
+
 	}
 
 }

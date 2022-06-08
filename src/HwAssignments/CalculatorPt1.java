@@ -7,7 +7,7 @@ public class CalculatorPt1 {
 	public static void main(String[] args) {
 
 	char operator;
-	int result, num1, num2, num3, num4;	
+	int  num1, num2, num3, num4;	
 		
 	Scanner scanner= new Scanner(System.in);
 	System.out.println("enter a number");	
@@ -73,7 +73,7 @@ public class CalculatorPt1 {
 		
 		
 		
-		
+		scanner.close();
 		
 		
 	}

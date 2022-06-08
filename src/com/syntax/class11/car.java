@@ -24,7 +24,7 @@ public static void main(String[] args) {
 	bmw.year=2022;
 	bmw.typeOfEngine="V8";
 	bmw.HP=500;
-	 System.out.println(bmw.model);
+	 System.out.println(bmw.model+" has a "+bmw.typeOfEngine);
 	bmw.moveForward();
 	bmw.reverse();
 
